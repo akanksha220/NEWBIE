@@ -1,1 +1,1 @@
-# NEWBIE
+print("hello world")
